@@ -1,41 +1,36 @@
 # 👋 Hi, I’m Dita Biško
 
-I’m a people-process professional with a background in **HR, employer branding, and learning design**, now diving deeper into the world of **code**.
+I’m a people-process professional with a background in HR, employer branding, and learning design. I'm now diving deeper into the world of code.
+
+What started as a curiosity has turned into a passion. I bring the same thoughtful, hands-on approach to tech that I did to people and process work — always learning.
+
+---
+### 🛠️ 42 Berlin Projects
+  
+## 🌐 Example project – NetPractice – with a twist
+
+### 🔍 IP Subnet Properties Checker -> ![]
+
+This wasn’t part of the **NetPractice module** — I built it on my own to understand subnetting and network calculations.
+
+🛠️ **What it does:**
+- Calculates network, broadcast, usable IPs, CIDR, host count, etc.
+- Detects unique/reserved ranges (private, loopback, multicast...)
+- Cross-checks results using Python's `ipaddress` module
+- Includes integration tests for validation and learning
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DitaBisko&layout=compact)
 
 ---
 
-## 🧠 Why I Code
+Other projects at **42 Berlin**, I’ve tackled low-level, logic-heavy challenges like:
 
-Coding started as a curiosity — now it's a passion. I approach tech with the same mindset I brought to people and projects: thoughtful, hands-on, and always evolving.
-
-My current interests:
-- Systems programming (C, Bash)
-- Python scripting and tooling
-- Networks, Linux, and automation
-- Building things that help **me understand deeply**, not just "make it work"
-
-As part of my journey at **42 Berlin**, I’ve worked on several hands-on projects focused on systems programming, logic, and low-level development:
-
-- **Minishell** – A custom Unix shell written in C, implementing command parsing, pipes, redirections, and environment handling.
-- **Philopher** – A concurrency exercise using threads and mutexes to solve the classic Dining Philosophers problem.
-- **Push Swap** – An algorithmic challenge that sorts integers using a limited instruction set and optimized moves.
-- **FDF** – A 3D wireframe visualizer that parses height maps and renders them with isometric projection.
-- **Minitalk** – A message-passing program using UNIX signals for inter-process communication.
-- **Cub3D** – A raycasting engine for creating a simple 3D game, inspired by Wolfenstein 3D.
-
-## 🌐 NetPractice – With a Twist
-
-### 🔍 IP Subnet Properties Checker
-
-This was part of the **NetPractice module**, but I wanted more than just to pass the assignment.
-
-So I built a **Python tool** that:
-- Calculates subnet info (network, broadcast, usable hosts, etc.)
-- Identifies IP categories (private, loopback, reserved, etc.)
-- Cross-validates results with Python’s `ipaddress` module
-- Includes integration tests for edge cases and logic accuracy
-
----
+- **Minishell** – A basic Unix shell with pipes, redirections, and env handling.
+- **Philo** – Solving the Dining Philosophers problem with threads and mutexes.
+- **Push Swap** – Sorting integers with a custom algorithm and minimal moves.
+- **FDF** – Visualizing 3D wireframes from height maps.
+- **Minitalk** – Sending messages between processes via UNIX signals.
+- **Cub3D** – A raycasting engine inspired by early 3D games.
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/dita-bisko/)
 - ✉️ dita.bisko@gmail.com
