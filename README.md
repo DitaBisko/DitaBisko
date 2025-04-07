@@ -28,8 +28,8 @@ While diving into networking concepts, I built a CLI tool that calculates key IP
 
 Other projects at **42 Berlin**, I’ve tackled low-level, logic-heavy challenges like:
 
-- **Minishell** – A basic Unix shell with pipes, redirections, and env handling.
-- **Philo** – Solving the Dining Philosophers problem with threads and mutexes.
+- [**Minishell**](https://github.com/DitaBisko/42Berlin_minishell) – A basic Unix shell with pipes, redirections, and env handling.
+- [**Philo**](https://github.com/DitaBisko/42Berlin_Philo/tree/main) – Solving the Dining Philosophers problem with threads and mutexes.
 - **Push Swap** – Sorting integers with a custom algorithm and minimal moves.
 - **FDF** – Visualizing 3D wireframes from height maps.
 - **Minitalk** – Sending messages between processes via UNIX signals.
@@ -41,4 +41,4 @@ Other projects at **42 Berlin**, I’ve tackled low-level, logic-heavy challenge
 - ✉️ dita.bisko@gmail.com
 - 📍 Berlin, Germany
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DitaBisko&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DitaBisko&layout=compact&cache_seconds=1)
