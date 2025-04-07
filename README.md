@@ -19,6 +19,8 @@ This wasn’t part of the **NetPractice module**, but I built it to understand s
 - Cross-checks results using Python's `ipaddress` module
 - Includes integration tests for validation and learning
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DitaBisko&layout=compact)
 
 ---
