@@ -9,7 +9,7 @@ What started as a curiosity has turned into a passion. I bring the same thoughtf
   
 ## 🌐 Example project – NetPractice – with a twist
 
-### 🔍 IP Subnet Properties Checker -> [repo!](https://github.com/DitaBisko/42Berlin_NetPractice)
+### 🔍 IP Subnet Properties Checker -> [repo](https://github.com/DitaBisko/42Berlin_NetPractice/tree/main/ip_attributes)
 
 This wasn’t part of the **NetPractice module**, but I built it to understand subnetting and network calculations.
 
