@@ -9,9 +9,9 @@ What started as a curiosity has turned into a passion. I bring the same thoughtf
   
 ## 🌐 Example project – NetPractice – with a twist
 
-### 🔍 IP Subnet Properties Checker -> ![]
+### 🔍 IP Subnet Properties Checker -> [repo!](https://github.com/DitaBisko/42Berlin_NetPractice)
 
-This wasn’t part of the **NetPractice module** — I built it on my own to understand subnetting and network calculations.
+This wasn’t part of the **NetPractice module**, but I built it to understand subnetting and network calculations.
 
 🛠️ **What it does:**
 - Calculates network, broadcast, usable IPs, CIDR, host count, etc.
@@ -31,6 +31,8 @@ Other projects at **42 Berlin**, I’ve tackled low-level, logic-heavy challenge
 - **FDF** – Visualizing 3D wireframes from height maps.
 - **Minitalk** – Sending messages between processes via UNIX signals.
 - **Cub3D** – A raycasting engine inspired by early 3D games.
+
+---
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/dita-bisko/)
 - ✉️ dita.bisko@gmail.com
