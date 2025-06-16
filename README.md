@@ -41,5 +41,6 @@ Other projects at **42 Berlin**, I’ve tackled low-level, logic-heavy challenge
 - ✉️ dita.bisko@gmail.com
 - 📍 Berlin, Germany
 
-![Top Langs](https://github-readme-stats-c28h4imn3-ditabiskos-projects.vercel.app/api/top-langs/?username=DitaBisko&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DitaBisko&layout=compact&cache_seconds=1)
+
 
