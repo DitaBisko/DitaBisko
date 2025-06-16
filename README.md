@@ -5,10 +5,10 @@ People-process professional turned software developer 🚀
 Fueled by curiosity, I’ve been loving the challenge of CS—at [42 Berlin](42berlin.de) and in building my own tools along the way.
 
 ---
-> current stack: Python, C, Bash, SQL, Make  
-> next: C++, R, _a bit of front end(Css, HTML, js)_
+> current stack: Python, C, C++, Bash, SQL, Make  
+> next: R, _a bit of front end(Css, HTML, js)_
 >
-> CS concepts explored: Networking, Operating Systems, Shell Programming, Concurrency, Algorithms & Data Structures, Low-Level Programming, Computer >Graphics, Inter-Process Communication, Testing & Debugging, Version Control & Collaboration
+> CS concepts explored: OOP, Networking, Operating Systems, Shell Programming, Concurrency, Algorithms & Data Structures, Low-Level Programming, Computer >Graphics, Inter-Process Communication, Testing & Debugging, Version Control & Collaboration
 
 ---
 
